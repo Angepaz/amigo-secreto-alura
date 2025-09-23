@@ -4,7 +4,15 @@ Este proyecto es parte de la formación **Principiante en Programación G9 – O
 
 El objetivo es practicar **JavaScript**, **HTML** y **CSS** creando una aplicación que permite agregar amigos a una lista y realizar un sorteo simple entre ellos.
 
----
+
+## 🔗 Enlaces importantes
+- 📂 [Repositorio en GitHub](https://github.com/Angepaz/amigo-secreto-alura)  
+- 🌐 [Ver demo en GitHub Pages](https://angepaz.github.io/amigo-secreto-alura/)  
+
+
+
+
+
 
 ## 🚀 Funcionalidades
 - Agregar nombres de amigos a una lista.
@@ -28,4 +36,5 @@ El objetivo es practicar **JavaScript**, **HTML** y **CSS** creando una aplicaci
 ┣ 📄 index.html
 ┣ 📄 style.css
 ┗ 📄 README.md
+
 
